@@ -1,0 +1,30 @@
+TOTAL_START=Wed Mar 16 18:25:16 2016
+PREPROCESSING_START=0
+PREPROCESSING_DONE=0
+SEARCH_START=Wed Mar 16 18:25:16 2016
+SEARCH_DONE=Wed Mar 16 18:25:31 2016
+SOLUTION_TIME=15.4079950
+STATUS=success
+SOLUTION=(1,E,F,G,4,3,5,7,B,C,D,2,8,6,9,A,9,B,C,2,8,1,A,6,4,E,F,G,3,5,7,D,4,8,A,D,B,9,E,C,3,5,6,7,1,2,F,G,5,6,7,3,D,2,F,G,8,1,9,A,B,4,C,E,F,G,3,7,6,C,2,8,D,A,E,B,4,1,5,9,B,2,D,1,9,F,4,A,7,6,8,5,C,E,G,3,8,9,4,C,5,E,1,B,F,G,2,3,A,D,6,7,A,5,6,E,3,G,7,D,9,4,1,C,2,B,8,F,D,F,5,8,7,A,6,1,2,3,B,4,9,G,E,C,6,4,E,9,C,B,3,2,G,7,5,F,D,8,A,1,C,1,G,B,F,D,9,5,6,8,A,E,7,3,2,4,3,7,2,A,G,4,8,E,1,9,C,D,5,F,B,6,E,A,9,4,1,5,B,3,C,2,G,6,F,7,D,8,7,D,B,6,2,8,C,4,E,F,3,9,G,A,1,5,G,3,1,F,A,6,D,9,5,B,7,8,E,C,4,2,2,C,8,5,E,7,G,F,A,D,4,1,6,9,3,B)
+COUNT_NODES=171
+COUNT_DEADENDS=6
+N:16	p:4	q:4
+1 E F G | 4 3 5 7 | B C D 2 | 8 6 9 A 
+9 B C 2 | 8 1 A 6 | 4 E F G | 3 5 7 D 
+4 8 A D | B 9 E C | 3 5 6 7 | 1 2 F G 
+5 6 7 3 | D 2 F G | 8 1 9 A | B 4 C E 
+- - - - - - - - - - - - - - - - - - - 
+F G 3 7 | 6 C 2 8 | D A E B | 4 1 5 9 
+B 2 D 1 | 9 F 4 A | 7 6 8 5 | C E G 3 
+8 9 4 C | 5 E 1 B | F G 2 3 | A D 6 7 
+A 5 6 E | 3 G 7 D | 9 4 1 C | 2 B 8 F 
+- - - - - - - - - - - - - - - - - - - 
+D F 5 8 | 7 A 6 1 | 2 3 B 4 | 9 G E C 
+6 4 E 9 | C B 3 2 | G 7 5 F | D 8 A 1 
+C 1 G B | F D 9 5 | 6 8 A E | 7 3 2 4 
+3 7 2 A | G 4 8 E | 1 9 C D | 5 F B 6 
+- - - - - - - - - - - - - - - - - - - 
+E A 9 4 | 1 5 B 3 | C 2 G 6 | F 7 D 8 
+7 D B 6 | 2 8 C 4 | E F 3 9 | G A 1 5 
+G 3 1 F | A 6 D 9 | 5 B 7 8 | E C 4 2 
+2 C 8 5 | E 7 G F | A D 4 1 | 6 9 3 B 
