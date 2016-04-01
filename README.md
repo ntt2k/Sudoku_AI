@@ -7,6 +7,8 @@ In this project, an AI Agent has been created which utilizes backtracking search
 
 A sudoku board is comprised of a grid of size N, with each grid comprised of p rows and q columns. The agent will attempt backtracking search to fill the grid cells so that each row, column, and grid cell has unique numbers.
 
+![Screenshot](screenshot/screenshot.png)
+
 To run the program, check out 'testfiles' folder with script:
 
 python3 runtest.py
